@@ -36,7 +36,7 @@ There are two folder's where all the main code is :-
 RMI Stuff - Has all the classes ,  some of the classes has string compare algorithms and they all are provided by Professor John Healy
 as a starter code .
 
-There is Resultator interface which is for processing and set the process .
+There is Resultator interface which is for processing and set the process  .
 
 
 
